@@ -1,0 +1,65 @@
+```css
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f5e2d0;
+    color: #4b0000;
+}
+
+header {
+    background-color: #8b0000;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+header h1 {
+    font-size: 45px;
+}
+
+nav {
+    background-color: #4b0000;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+}
+
+section {
+    background-color: white;
+    margin: 25px;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #8b0000;
+}
+
+.project {
+    background-color: #f5d27a;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 8px;
+}
+
+button {
+    background-color: #8b0000;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #4b0000;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+```
